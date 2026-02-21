@@ -1,0 +1,13 @@
+com.david3.Mavenprueba.App -> a.a.a.a:
+    void <init>() -> <init>
+    void main(java.lang.String[]) -> main
+com.david3.Mavenprueba.Arraysdemo -> a.a.a.b:
+    void <init>() -> <init>
+    void main(java.lang.String[]) -> main
+    java.lang.Object stream(int[]) -> a
+    void fill(int[],int) -> a
+    char[] equals(int[],int[]) -> a
+    int[] copyOf(int[],int) -> b
+    int binarySearch(int[],int) -> c
+    void sort(int[]) -> b
+    char[] toString(int[]) -> c

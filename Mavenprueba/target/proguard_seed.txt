@@ -1,0 +1,2 @@
+com.david3.Mavenprueba.App: void main(java.lang.String[])
+com.david3.Mavenprueba.Arraysdemo: void main(java.lang.String[])
